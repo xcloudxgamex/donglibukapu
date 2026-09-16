@@ -1,1 +1,8 @@
-Stock Name,Buy Date,Quantity,Buy Price,Sell Date,Sell Price
+Stock Name,Buy Date,Quantity,Buy Price,Sell Price,Side,Status
+PKTEA,,10.0,920.0,990.0,LONG,CLOSED
+HIKAL,,0.0,,,LONG,OPEN
+CLEAN,,0.0,,,LONG,OPEN
+FINCABLES,,0.0,,,LONG,OPEN
+EIEL,,0.0,,,LONG,OPEN
+G1NSETEST,,0.0,,,LONG,OPEN
+BSE100,,0.0,,,LONG,OPEN
